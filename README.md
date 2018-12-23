@@ -24,4 +24,4 @@
 		# GRUB_BACKFROUND
 	after, execute instructions inside grub
 
-2. Restar your OS, press in avanced and here is where your new kernel is :)
+2. Restart your OS, enter in avanced options and enjoy the project
