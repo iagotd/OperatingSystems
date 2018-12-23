@@ -2,7 +2,7 @@
 ######## WARNING, please follow the instructions and try it in a VM ########
 ############################################################################
 
-1. Instructions before modify kernel:
+1. Instructions before modifiing kernel:
 
 	> zypper install kernel-devel kernel-source 
 	> zypper install ncurses-devel
@@ -22,6 +22,6 @@
 	put a # block in /etc/default/grub
 		# GRUB_THEME
 		# GRUB_BACKFROUND
-	after, execute instructions inside grub
+	then, execute instructions inside grub
 
 2. Restart your OS, enter in avanced options and enjoy the project
