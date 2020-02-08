@@ -2,7 +2,7 @@
 
 1. Instructions before modifying kernel:
 
-- Write in command line
+- Write in command line:
 ```
 zypper install kernel-devel kernel-source 
 zypper install ncurses-devel
